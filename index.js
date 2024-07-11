@@ -1,6 +1,6 @@
 //Variáveis contendo quantidade de vitórias e derrotas.
 let vitorias = 79;
-let derrotas = 19;
+let derrotas = 29;
 
 //Função que executa a soma e a designação do ranking de acordo com resultado.
 function resultadoRanking (vitorias, derrotas) {
